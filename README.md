@@ -1,2 +1,2 @@
-# CtT-L4D2
-Code the Things Left for Dead 2 Server Builds
+The efforts of this have been migrated to a larger Steam Dedicated Server Ansible project found here:
+https://github.com/Code-the-Things/Steam.DedicatedServers
